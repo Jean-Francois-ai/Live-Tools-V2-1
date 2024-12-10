@@ -268,13 +268,7 @@ async def main():
         "size": 0.05,
         "sides": ["long", "short"]
     },
-    "XRP/USDT": {
-        "src": "close",
-        "ma_base_window": 500,
-        "envelopes": [0.07, 0.1, 0.15],
-        "size": 0.05,
-        "sides": ["long", "short"]
-    },
+    
     "EOS/USDT": {
         "src": "close",
         "ma_base_window": 500,
