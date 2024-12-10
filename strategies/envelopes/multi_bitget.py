@@ -295,7 +295,7 @@ async def main():
         "envelopes": [0.07, 0.1, 0.15],
         "size": 0.05,
         "sides": ["long", "short"]
-    }
+    },
         
     }
 
